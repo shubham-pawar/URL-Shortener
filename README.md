@@ -9,7 +9,7 @@ URL-Shortener is a Flask application that allows users to create short URLs for 
 
 # Installation
 
-    1. Clone the repository from GitHub: git clone https://github.com/your-username/URL-Shortener.git
+    1. Clone the repository from GitHub: git clone https://github.com/shubham-pawar/URL-Shortener.git
     2. Install the dependencies using pip: pip install -r requirements.txt
     3. Run the application: python3 app.py
 
