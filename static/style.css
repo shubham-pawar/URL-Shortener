@@ -14,3 +14,10 @@ form{
     border: 1px solid #CCC;
     border-radius: 1em;
 }
+
+h1{
+    text-align: center;
+    color: #009edf;
+    font-weight: bold;
+    font-size: 36px;
+}
